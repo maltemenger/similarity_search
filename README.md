@@ -1,6 +1,7 @@
 # similarity_search
 This takes pdfs, creates embeddings and stores those in chromadb.
 
+
 Install
 
 Docker
