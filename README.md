@@ -1,5 +1,5 @@
 # similarity_search
-Similarity Search
+This takes pdfs, creates embeddings and stores those in chromadb.
 
 Install
 
